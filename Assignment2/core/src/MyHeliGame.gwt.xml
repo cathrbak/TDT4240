@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE module [<!ELEMENT module (source)*><!ELEMENT source (#PCDATA)><!ATTLIST sourcepath CDATA #REQUIRED>]>
+<module>
+	<source path="com/mygdx/game" />
+</module>
