@@ -2,7 +2,7 @@
 
 Exercises for the course TDT4240 Software Architecture
 
-Developed a Android game with Android studios and libGDX. 
+Developed an Android game with Android studios and libGDX. 
 
 Game 1.x: A helicopter game
 
